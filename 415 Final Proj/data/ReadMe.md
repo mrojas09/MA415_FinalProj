@@ -1,0 +1,1 @@
+The twitter information that was extracted for this project had to be compressed in order to be uploaded on github. Since it was complaining that the file was too large. Eigther way should work perfectly fine.
